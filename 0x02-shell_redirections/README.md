@@ -10,7 +10,7 @@
                 1-confused_smiley - Displays a confused smiley "(Ôo)'.
         </li>
 	<li>
-		
+		2-hellofile - Displays the content of /etc/passwd	
 	</li>
 	<li>
 	</li>
