@@ -44,6 +44,17 @@
 		current directory and all its subfolders.
 	</li>
 	<li>
+		11-directories - Write a script that counts the number of directories and sub-directories in the current directory.
+
+		<ul>
+			<li>
+				The current and parent directories should not 
+				be taken into account
+			</li>
+			<li>
+				Hidden directories should be counted
+			</li>
+		</ul>
 	</li>
 	<li>
 	</li>
