@@ -22,6 +22,7 @@
 		5-firstlines - Display the first 10 lines of /etc/passwd
 	</li>
 	<li>
+		6-third_line - Displays the third line of the file iacta
 	</li>
 	<li>
 	</li>
