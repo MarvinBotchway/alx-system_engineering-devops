@@ -16,6 +16,7 @@
 		3-twofiles - Display content of /ect/passwd /etc/hosts
 	</li>
 	<li>
+		4-lastlines - Display the last 10 lines of /etc/passwd
 	</li>
 	<li>
 	</li>
