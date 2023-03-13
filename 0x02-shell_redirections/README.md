@@ -36,6 +36,7 @@
 		If the file ls_cwd_content does not exist, create it.
 	</li>
 	<li>
+		9-duplicate_last_line - Write a script that duplicates the last line of the file iacta
 	</li>
 	<li>
 	</li>
