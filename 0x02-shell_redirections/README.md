@@ -13,6 +13,7 @@
 		2-hellofile - Displays the content of /etc/passwd	
 	</li>
 	<li>
+		3-twofiles - Display content of /ect/passwd /etc/hosts
 	</li>
 	<li>
 	</li>
