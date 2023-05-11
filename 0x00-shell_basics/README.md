@@ -1,7 +1,7 @@
 
 # ALX Project - 0x00. Shell, basics
 
-### This folder is an mandatory part of the ALX Software Engineering Program. Add its made up of tasks related to understading the basics of the Linux Shell (bash).
+### This project folder is a part of the requirements for the ALX Software Engineering Program. The project is made up of tasks (files) related to understading the basics of the Linux Shell (bash). Tasks with their filenames beginning with 100 and above are advanced and optional but every other task is mandatory.
 
 Bellow are all the files containing solutions to the tasks and the respective requirements.
 
@@ -33,7 +33,7 @@ Bellow are all the files containing solutions to the tasks and the respective re
 	- Write a script that changes the working directory to the previous one.
 * 11-lists
 	- Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
-*  12-file_type
+* 12-file_type
 	- Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 * 13-symbolic_link
 	- Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
@@ -58,4 +58,3 @@ Bellow are all the files containing solutions to the tasks and the respective re
 	- The listing should end with a new line
 * school.mgc
 	- Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
-
