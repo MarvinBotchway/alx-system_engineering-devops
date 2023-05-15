@@ -21,7 +21,7 @@ All the Tasks with their filenames beginning with 100 and above are advanced and
 * What are special characters
 * Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
 
-## Files Add Requirements
+## Files And Requirements
 
 Bellow are all the files containing solutions to the tasks and the respective requirements.
 
